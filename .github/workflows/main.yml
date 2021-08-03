@@ -30,14 +30,14 @@ jobs:
         run: echo Hello, world!
 
       # install
-      - name: Run a multi-line script
-        run: |
-          echo installing,
-          npm install
+#       - name: Run a multi-line script
+#         run: |
+#           echo installing,
+#           npm install
           
-      # build
-      - name: Run a multi-line script
-        run: |
-          echo building to production,
-          npm install
-          npm run build:prod
+#       # build
+#       - name: Run a multi-line script
+#         run: |
+#           echo building to production,
+#           npm install
+#           npm run build:prod
