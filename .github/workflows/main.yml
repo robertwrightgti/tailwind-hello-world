@@ -32,7 +32,7 @@ jobs:
       # install
       - name: Run a multi-line script
         run: |
-          echo installing,
+          echo installing...,
           npm install
           
       # build
