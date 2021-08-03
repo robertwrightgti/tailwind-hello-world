@@ -1,5 +1,0 @@
-Setup guided by the following articles:
-
-https://wsvincent.com/learn-tailwind-css-beginners-guide/
-
-https://medium.com/capgemini-web-development/setup-tailwind-on-create-react-app-without-craco-f9b6063ecde0
